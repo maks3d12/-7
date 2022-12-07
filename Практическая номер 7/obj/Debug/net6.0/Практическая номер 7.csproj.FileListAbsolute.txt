@@ -1,0 +1,15 @@
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\bin\Debug\net6.0\Практическая номер 7.exe
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\bin\Debug\net6.0\Практическая номер 7.deps.json
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\bin\Debug\net6.0\Практическая номер 7.runtimeconfig.json
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\bin\Debug\net6.0\Практическая номер 7.dll
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\bin\Debug\net6.0\Практическая номер 7.pdb
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\Практическая номер 7.csproj.AssemblyReference.cache
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\Практическая номер 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\Практическая номер 7.AssemblyInfoInputs.cache
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\Практическая номер 7.AssemblyInfo.cs
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\Практическая номер 7.csproj.CoreCompileInputs.cache
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\Практическая номер 7.dll
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\refint\Практическая номер 7.dll
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\Практическая номер 7.pdb
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\Практическая номер 7.genruntimeconfig.cache
+C:\Users\Петрушка\source\repos\Практическая номер 7\Практическая номер 7\obj\Debug\net6.0\ref\Практическая номер 7.dll
